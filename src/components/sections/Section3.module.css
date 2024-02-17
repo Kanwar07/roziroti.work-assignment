@@ -1,0 +1,69 @@
+.maindiv {
+  position: relative;
+  height: 100%;
+  width: 100vw;
+}
+
+.image1 {
+  height: 100%;
+  width: 100%;
+}
+
+.semicircle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40rem;
+  height: 20rem;
+  background-color: white;
+  border-radius: 20rem 20rem 0 0;
+  margin: 25rem 0 0 28rem;
+}
+
+.text {
+  position: absolute;
+  text-align: center;
+  margin: -5% 0 0 48%;
+  color: #647b4e;
+  font-family: "Rustica", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+  letter-spacing: 3.6px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.heading {
+  position: relative;
+  color: #1a4122;
+  margin: 0 33%;
+  text-align: center;
+  font-family: "F37 Caslon", serif;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 92%;
+  letter-spacing: -3px;
+  margin-top: 0px;
+  margin-bottom: 24px;
+}
+
+.para {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 140%;
+  letter-spacing: 0.16px;
+  color: #1a4122;
+  font-family: "futura-pt", sans-serif;
+  margin-bottom: 35px;
+  margin: 0 25%;
+  opacity: 0.6;
+  text-align: center;
+}
+
+.button {
+  margin: 5% 42%;
+}

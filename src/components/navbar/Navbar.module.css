@@ -1,0 +1,7 @@
+.navbuttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 2rem 0;
+  align-items: center;
+}
